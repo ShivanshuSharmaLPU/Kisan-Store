@@ -32,7 +32,7 @@ const Navbar = () => {
 </Link>
 
 <a
-  href="http://localhost:5173"
+  href="https://kisa-mitra-crop-recommendation.vercel.app"
   target="_blank"
   rel="noopener noreferrer"
   className="
